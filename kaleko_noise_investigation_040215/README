@@ -1,0 +1,18 @@
+Yo.
+
+This is a few scripts to find "chirping" channels (vole-like).
+
+Find the chirping channels like this:
+
+0) Modify the first line in find_chirping_channels.py to point towards the directory in which you have rsynced the noise files
+1) >> python find_chirping_channels.py runno subrun1 subrun2
+2) This creates a .txt file with a list of chirping channels.
+
+
+If you want to draw the chirping channels and you have all the prequisites for VireViewer installed, do the following:
+
+0) cd VireViewer     (Yes I copied the whole folder here)
+1) python draw_chirping_channels.py runno subrun1 subrun2
+
+
+Enjoy!

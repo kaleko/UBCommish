@@ -1,0 +1,23 @@
+This is a list of channels that show chirping that look exponential
+many chirps look exponential, here are the most convincing ones
+
+
+run	subrun	subrun	crate	slot	ch 	how interesting?
+148	317	326	6	11	24	pretty
+			6 	12	6	kind of
+			6	12	30	kind of
+148	337	380	6	9	2	very
+			6	9	6	very
+			7	4	0	very
+			7	5	26	very
+148	417	443	6	11	22	WOW VERY
+			6	11	30	kind of
+150	2	15	6	11	26 	meh
+150	36	50	6	11	28	kind of
+149	0	82	6	11	16	WOW VERY
+			6	11	20	very
+			7	5	0	decent
+
+Repeat channels from different subruns:
+150	24	33	6	11	22	WOW VERY (repeat)
+149	0	82	6	11	22	WOW VERY (repeat)
